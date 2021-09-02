@@ -21,7 +21,7 @@ h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     color: #66BFBF;
-    margin: ;
+    
 }
 h3{
     font-family: 'Montserrat', sans-serif;
@@ -74,12 +74,11 @@ hr{
     border-width: 5px;
     width: 3%;
     color: #EAF6F6;
-    /* margin: 100px auto 100px; */
 }
 
 .contact-me{
     margin-bottom: 65px;
-    line-height: 3;
+    line-height: 2;
 }
 
 .btn {
