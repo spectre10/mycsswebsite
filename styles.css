@@ -5,7 +5,16 @@
 }
 
 .middle-container{
-    margin: 50px 0;
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+p{
+    line-height: 2;
 }
 
 body{
@@ -24,6 +33,7 @@ h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     color: #66BFBF;
+    padding-bottom: 10px;
     
 }
 h3{
@@ -34,20 +44,27 @@ a{
     color: #11999E;
     text-decoration: none;
     font-weight: bold;
+    margin: 10px 20px;
 }
+
+a:hover {
+    color: #EAF6F6;
+}
+
 .pro{
     font-weight: normal;
 }
 
 .bottomcloud{
      position: absolute;
-     left: 300px;
+     left: 250px;
+     bottom: 300px;
  }
 
 .topcloud{
      position: absolute;
      right: 300px;
-     top: 50px;
+     top: 40px;
  }
 
 .profilepic{
@@ -58,7 +75,6 @@ a{
     margin: 100px auto 100px;
     width: 50%;
     text-align: left;
-    line-height: 2;
 }
 .chilli-img{
     width: 25%;
@@ -77,6 +93,7 @@ hr{
     border-width: 5px;
     width: 3%;
     color: #EAF6F6;
+    margin: 100px auto;
 }
 
 .contact-me{
@@ -113,16 +130,10 @@ hr{
     text-decoration: none;
   }
 
-.bottom-container{
-     background-color: #66BFBF;
-     margin: 0;
-     padding-top: 50px;
- }
-
 .para{
     margin: 0;
-    padding: 40px;
-    color: white;
+    padding: 20x 0;
+    color: #EAF6F6;
     font-size: 75%;
     font-weight: bold;
 }
